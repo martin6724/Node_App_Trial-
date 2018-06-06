@@ -1,0 +1,19 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "simple node app to learn node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martin6724/Node_App_Trial-.git"
+  },
+  "author": "Michelle Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martin6724/Node_App_Trial-/issues"
+  },
+  "homepage": "https://github.com/martin6724/Node_App_Trial-#readme"
+}
